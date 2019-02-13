@@ -1,6 +1,16 @@
 # Compiled class file
 *.class
 
+.idea/
+
+/target
+/src/main/webapp/WEB-INF/classes
+/src/main/webapp/WEB-INF/fileUploads
+/src/main/resources/rebel.xml
+/bin
+/.settings/
+/.classpath
+
 # Log file
 *.log
 
